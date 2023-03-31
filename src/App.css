@@ -5,7 +5,12 @@
   text-align: center;
 }
 button {
-  margin-top: 20px;
+  margin: 20px 0 20px 20px;
+}
+
+input {
+  padding: 10px;
+  font-size: 1rem;
 }
 .logo {
   height: 6em;
